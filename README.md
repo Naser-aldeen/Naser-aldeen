@@ -3,7 +3,9 @@
 
 **Data Analyst & BI Officer** | I build ETL pipelines, reports, and dashboards on the Microsoft BI stack and turn raw data into clear decisions.
 
-📍 [Amman, Jordan] · 📧 [Naseraldeenalmagarbi@gmail.com] · 🔗 [https://www.linkedin.com/in/naser-aldeen-almagarbi-0a352b276/]
+📍 [Amman, Jordan] ·
+📧 [Naseraldeenalmagarbi@gmail.com] ·
+🔗 [https://www.linkedin.com/in/naser-aldeen-almagarbi-0a352b276/]
 
 🟢 **Open to:** full-time data analyst / BI roles and freelance data projects.
 
