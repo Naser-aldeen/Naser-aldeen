@@ -43,4 +43,5 @@ Collected two years of public payment-system reports, structured the figures, an
 
 ## 📫 Contact
 
-Message me on [LinkedIn]([your-link](https://www.linkedin.com/in/naser-aldeen-almagarbi-0a352b276/)) or by email: [Naseraldeenalmagarbi@gmail.com]
+Message me on [LinkedIn]([https://www.linkedin.com/in/naser-aldeen-almagarbi-0a352b276/]) 
+or by email: [Naseraldeenalmagarbi@gmail.com]
